@@ -1,6 +1,0 @@
-                       <li><a href="https://www.facebook.com/hamsdao" target="_blank"><span class="ico-circle"><i class="bi bi-facebook"></i></span></a></li>
-                        <li><a href="https://www.instagram.com/hamsdao_official/" target="_blank"><span class="ico-circle"><i class="bi bi-instagram"></i></span></a></li>
-                        <li><a href="https://twitter.com/HamsringdaoO" target="_blank"><span class="ico-circle"><i class="bi bi-twitter"></i></span></a></li>
-                        <li><a href="https://in.linkedin.com/in/hamsringdao-bhatari-10584a185" target="_blank"><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
-						<li><a href="https://www.youtube.com/channel/UCcTFQuDcH3THJNUQV20AfqQ" target="_blank" target="_blank"><span class="ico-circle"><i class="bi bi-youtube"></i></span></a></li>
-						<li><a href="https://in.pinterest.com/hamsdao" target="_blank"><span class="ico-circle"><i class="bi bi-pinterest"></i></span></a></li>
