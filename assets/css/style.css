@@ -683,11 +683,11 @@ a:hover {
 .hero .hero-title {
   color: #fff;
   font-weight: 600;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 @media (min-width: 768px) {
   .hero .hero-title {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 }
 .hero .hero-subtitle {
@@ -696,7 +696,7 @@ a:hover {
 }
 @media (min-width: 768px) {
   .hero .hero-subtitle {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 }
 .hero .text-slider-items {
@@ -715,7 +715,7 @@ a:hover {
 }
 @media (min-width: 768px) {
   .hero-single .hero-title {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
   }
 }
 .hero-single .breadcrumb {
