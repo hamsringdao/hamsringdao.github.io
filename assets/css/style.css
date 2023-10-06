@@ -183,6 +183,22 @@ a:hover {
   bottom: -12px;
 }
 
+
+.title-middle {
+  font-size: 2rem;
+  position: relative;
+}
+.title-middle:before {
+  content: "";
+  position: absolute;
+  height: 5px;
+  background-color: #e7610e;
+  width: 100px;
+  bottom: -12px;
+}
+
+
+
 /*------/ Box /------*/
 .box-pl2 {
   padding-left: 2rem;
