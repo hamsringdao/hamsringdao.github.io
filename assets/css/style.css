@@ -184,15 +184,117 @@ a:hover {
 }
 
 
-.title-middle {
-  font-size: 2rem;
+.title-about {
+  font-size: 3rem;
   position: relative;
+  font-weight: bold;
+  text-transform: uppercase;
 }
-.title-middle:before {
+.title-about:before {
+  content: "";
+  position: absolute;
+  height: 5px;
+  background-color: #0ecef0;
+  width: 100px;
+  bottom: -12px;
+}
+
+
+.title-aboutwebsite {
+  font-size: 3rem;
+  position: relative;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.title-aboutwebsite:before {
   content: "";
   position: absolute;
   height: 5px;
   background-color: #e7610e;
+  width: 100px;
+  bottom: -12px;
+}
+
+
+.title-service {
+  font-size: 3rem;
+  position: relative;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.title-service:before {
+  content: "";
+  position: absolute;
+  height: 5px;
+  background-color: #7fe955;
+  width: 100px;
+  bottom: -12px;
+}
+
+
+
+.title-photo {
+  font-size: 3rem;
+  position: relative;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.title-photo:before {
+  content: "";
+  position: absolute;
+  height: 5px;
+  background-color: #b835dc;
+  width: 100px;
+  bottom: -12px;
+}
+
+
+
+
+.title-mentor {
+  font-size: 3rem;
+  position: relative;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.title-mentor:before {
+  content: "";
+  position: absolute;
+  height: 5px;
+  background-color: #dc3575;
+  width: 100px;
+  bottom: -12px;
+}
+
+
+
+.title-contact {
+  font-size: 3rem;
+  position: relative;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.title-contact:before {
+  content: "";
+  position: absolute;
+  height: 5px;
+  background-color: #e33eee;
+  width: 100px;
+  bottom: -12px;
+}
+
+
+.title-map {
+  font-size: 3rem;
+  position: relative;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.title-map:before {
+  content: "";
+  position: absolute;
+  height: 5px;
+  background-color: #9bfc97;
   width: 100px;
   bottom: -12px;
 }
