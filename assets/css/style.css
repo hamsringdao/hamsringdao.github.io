@@ -1413,3 +1413,23 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+/* Table */
+
+table {
+  
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+td, th {
+  border: 2px solid #cccaca;
+  text-align: middle;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ebd3e2;
+}
