@@ -453,6 +453,19 @@ a:hover {
 }
 
 /*------/ Prelaoder /------*/
+
+div#preloader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 99999;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  background: #ffffff url("../lamborghini-aventador-lambo.gif") no-repeat center center;
+}
+
+/*
 #preloader {
   position: fixed;
   top: 0;
@@ -477,6 +490,7 @@ a:hover {
   -webkit-animation: animate-preloader 1s linear infinite;
   animation: animate-preloader 1s linear infinite;
 }
+*/
 
 @-webkit-keyframes animate-preloader {
   0% {
